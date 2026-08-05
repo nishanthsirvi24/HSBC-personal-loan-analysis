@@ -1,4 +1,11 @@
-# HSBC Personal Loan Analysis & Customer Insights
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| `HSBC Personal Loan Analysis & Customer Insights.xlsx` | Excel analysis and interactive dashboard |
+| `HSBC EDA.docx` | Exploratory Data Analysis questions and findings |
+| `Dashboard.png` | Interactive dashboard preview |
+| `README.md` | Project documentation |
 
 ## 📊 Project Overview
 
@@ -166,6 +173,17 @@ This project demonstrates how Microsoft Excel can be used to perform Exploratory
 The analysis highlights income as a particularly important characteristic associated with personal loan acceptance, while age, family size, and online banking usage show relatively smaller differences.
 
 ---
+## 👤 Author
+
+**Nishanth Sirvi**
+
+Aspiring Data Analyst passionate about transforming data into actionable business insights using Microsoft Excel, SQL, Power BI, and Python.
+
+📧 LinkedIn:
+[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/nishanth-sirvi-60b365408/)
+
+💻 GitHub:
+https://github.com/nishanthsirvi24
 
 ## 👤 Author
 
